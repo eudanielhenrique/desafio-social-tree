@@ -2,8 +2,6 @@
 <strong>Desafio "Social Tree"</strong><br>Trila Discover
 </h1>
 
-&nbsp;
-
 ## 📚 Informações sobre o projeto
 
 &nbsp;

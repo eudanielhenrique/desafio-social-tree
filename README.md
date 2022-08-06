@@ -1,6 +1,6 @@
 <h1 align="center">
 <strong>Desafio "Social Tree"</strong> - Trila Discover
-</h1>s
+</h1>
 
 
 

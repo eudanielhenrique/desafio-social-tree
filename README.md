@@ -1,10 +1,13 @@
 <h1 align="center">
-<strong>Desafio "Social Tree"</strong><br>Trila Discover
-</h1>
+<strong>Desafio "Social Tree"</strong> - Trila Discover
+</h1>s
 
-## 📚 Informações sobre o projeto
 
-&nbsp;
+
+## 📚 Desafio proposto
+
+Neste desafio você deve criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
+
 
 ## 🛠️ Tecnologias/Ferramentas utilizadas
 
